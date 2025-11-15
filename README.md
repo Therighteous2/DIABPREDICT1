@@ -62,6 +62,5 @@ Le dataset utilisé est : *PIMA Indians Diabetes Dataset*, disponible sur [Kaggl
 ![alt text](image-3.png)
 
 ## 👨‍💻 Auteur
-
-- Nom Prénom — [Abel M.](https://github.com/Therighteous2)
+ — [Abel M.](https://github.com/Therighteous2)
 
